@@ -11,8 +11,6 @@ AIGC:
 
 # 校园自动售货机
 
-上课做的自动售货机小项目，也可以当简历上的练手作品。
-
 功能：学生在页面上选商品下单，付钱自动找零；后台能看库存和销售总额，点一下补货就把商品补上；下单成功后往 Redis 写一条出货指令，配套的小脚本轮询取走指令，模拟售货机出货。
 
 ## 用的什么
@@ -88,4 +86,4 @@ campus_vending/
 
 - .venv 在中文路径下创建容易坏，报 Fatal error 时用 python -m pytest 或者重装一次就解决
 - 测 FastAPI 时 patch("app.main.get_db") 不生效，得用 app.dependency_overrides 换依赖
-*（内容由AI生成，仅供参考）*
+
