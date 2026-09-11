@@ -1,13 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 3c0f492650983933aac9bb677a3291fe_7ae04c50a92611f1bf99525400e6dd8f
-    ReservedCode1: s6bFUsKp/kYjSWUYhmHl1wIeGIOjc9Tr9/YHaoa4gaJgdyy9TXT8gek7+O1qo/YxRYEwB+JPxTuT0/X/QbC3r6/EsZR/eSBkWcffGC5Ha0WdmV+Vk+wXdwAX7/h6t6QY+1YoOZF1/o0N8K99wwXR8/6X9BAcfN7cKkG2sJP+z0okWlFOLMx5CWvotw0=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 3c0f492650983933aac9bb677a3291fe_7ae04c50a92611f1bf99525400e6dd8f
-    ReservedCode2: s6bFUsKp/kYjSWUYhmHl1wIeGIOjc9Tr9/YHaoa4gaJgdyy9TXT8gek7+O1qo/YxRYEwB+JPxTuT0/X/QbC3r6/EsZR/eSBkWcffGC5Ha0WdmV+Vk+wXdwAX7/h6t6QY+1YoOZF1/o0N8K99wwXR8/6X9BAcfN7cKkG2sJP+z0okWlFOLMx5CWvotw0=
----
 
 # 校园自动售货机
 
